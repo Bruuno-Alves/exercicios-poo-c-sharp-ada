@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadoresDeAcesso", "ModificadoresDeAcesso\ModificadoresDeAcesso.csproj", "{70565598-ABDA-490B-97DA-412D443CED85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModificadoresDeAcesso", "ModificadoresDeAcesso\ModificadoresDeAcesso.csproj", "{70565598-ABDA-490B-97DA-412D443CED85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseCaneta", "ClasseCaneta\ClasseCaneta.csproj", "{2C7ED470-C34F-474E-ACD5-445204E9C59B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasseCaneta", "ClasseCaneta\ClasseCaneta.csproj", "{2C7ED470-C34F-474E-ACD5-445204E9C59B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PessoaGetterSetters", "PessoaGetterSetters\PessoaGetterSetters.csproj", "{9B97F2BC-233F-4E1D-A42B-4DB8D848050D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PessoaGetterSetters", "PessoaGetterSetters\PessoaGetterSetters.csproj", "{9B97F2BC-233F-4E1D-A42B-4DB8D848050D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoTelevisao", "ProjetoTelevisao\ProjetoTelevisao.csproj", "{CD55A097-C9F2-4704-A55D-292EADE562F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoTelevisao", "ProjetoTelevisao\ProjetoTelevisao.csproj", "{CD55A097-C9F2-4704-A55D-292EADE562F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoTelevisaoConstrutor", "ProjetoTelevisaoConstrutor\ProjetoTelevisaoConstrutor.csproj", "{053845B1-AA69-4A21-ABB6-69D6DBAC3422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoTelevisaoConstrutor", "ProjetoTelevisaoConstrutor\ProjetoTelevisaoConstrutor.csproj", "{053845B1-AA69-4A21-ABB6-69D6DBAC3422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisaoPOO", "RevisaoPOO\RevisaoPOO.csproj", "{1459775B-E569-41E9-A01C-2FCC92E7CAA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{053845B1-AA69-4A21-ABB6-69D6DBAC3422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{053845B1-AA69-4A21-ABB6-69D6DBAC3422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{053845B1-AA69-4A21-ABB6-69D6DBAC3422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1459775B-E569-41E9-A01C-2FCC92E7CAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1459775B-E569-41E9-A01C-2FCC92E7CAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1459775B-E569-41E9-A01C-2FCC92E7CAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1459775B-E569-41E9-A01C-2FCC92E7CAA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
