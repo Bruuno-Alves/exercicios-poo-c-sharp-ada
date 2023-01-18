@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoTelevisao", "Projeto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoTelevisaoConstrutor", "ProjetoTelevisaoConstrutor\ProjetoTelevisaoConstrutor.csproj", "{053845B1-AA69-4A21-ABB6-69D6DBAC3422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisaoPOO", "RevisaoPOO\RevisaoPOO.csproj", "{1459775B-E569-41E9-A01C-2FCC92E7CAA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RevisaoPOO", "RevisaoPOO\RevisaoPOO.csproj", "{1459775B-E569-41E9-A01C-2FCC92E7CAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartphoneClasseAbstrata", "SmartphoneClasseAbstrata\SmartphoneClasseAbstrata.csproj", "{540A13CA-108C-4600-A7C5-A0BA0C4CEDBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1459775B-E569-41E9-A01C-2FCC92E7CAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1459775B-E569-41E9-A01C-2FCC92E7CAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1459775B-E569-41E9-A01C-2FCC92E7CAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540A13CA-108C-4600-A7C5-A0BA0C4CEDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540A13CA-108C-4600-A7C5-A0BA0C4CEDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540A13CA-108C-4600-A7C5-A0BA0C4CEDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540A13CA-108C-4600-A7C5-A0BA0C4CEDBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
